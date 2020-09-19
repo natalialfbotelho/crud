@@ -66,11 +66,11 @@ Estou muito feliz e grata pela oportunidade de desenvolver as minhas habilidades
 
 <p  align="center"  style="display: flex; align-items: flex-start; justify-content: center;">
 
-<img  alt="Lista de Clientes"  title="Lista de Clientes"  src="./assets/client-list"  width="400px">  
+<img  alt="Lista de Clientes"  title="Lista de Clientes"  src="https://raw.githubusercontent.com/natalialfbotelho/crud/master/crud-frontend/src/assets/client-list.png"  width="400px">  
 
-<img  alt="Cadastrar Cliente"  title="Cadastar Cliente"  src="./assets/new-client"  width="400px">
+<img  alt="Cadastrar Cliente"  title="Cadastar Cliente"  src="https://raw.githubusercontent.com/natalialfbotelho/crud/master/crud-frontend/src/assets/new-client.png"  width="400px">
 
-<img  alt="Editar Cliente"  title="Editar Cliente"  src="./assets/edit-client"  width="400px">
+<img  alt="Editar Cliente"  title="Editar Cliente"  src="https://raw.githubusercontent.com/natalialfbotelho/crud/master/crud-frontend/src/assets/edit-client.png"  width="400px">
 
 </p>
 
