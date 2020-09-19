@@ -1,0 +1,37 @@
+<div class="col-md-6 offset-md-3">
+<h3>Cadastrar Novo Cliente</h3>
+<form (ngSubmit) = "onSubmit()">
+
+    <div class="form-group">
+        <label> Nome Completo </label>
+        <input type="text" class="form-control" id="completeName" 
+        [(ngModel)] = "client.completeName" name = "completeName">
+    </div>
+
+    <div class="form-group">
+        <label> CPF </label>
+        <input type="text" class="form-control" id="cpf"
+            [(ngModel)] = "client.cpf" name = "cpf">
+    </div>
+
+    <div class="form-group">
+        <label> Telefone </label>
+        <input type="text" class="form-control" id="phone"
+            [(ngModel)] = "client.phone" name = "phone">
+    </div>
+
+    <div class="form-group">
+        <label> Observação </label>
+        <input type="text" class="form-control" id="obs"
+            [(ngModel)] = "client.obs" name = "obs">
+    </div>
+
+    <div class="form-group">
+        <label> Endereço </label>
+        <input type="text" class="form-control" id="address"
+            [(ngModel)] = "client.address" name = "address">
+    </div>
+
+    <button class="btn btn-success" type="submit">Submeter</button>
+</form>
+</div>

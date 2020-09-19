@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eec8cfda-e1e1-4c4c-903e-eebcd57d3965" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hfvxDnVmlx6SaVCpd4WzZIFDuP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eec8cfda-e1e1-4c4c-903e-eebcd57d3965" name="Default Changelist" comment="" />
+      <created>1600415209647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600415209647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="0" width="1024" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600553948622">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state x="1920" y="0" width="1024" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1600553948622" />
+    <state x="2251" y="55" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1600552364242">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state x="2251" y="55" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1600552364242" />
+    <state x="2212" y="119" key="FileChooserDialogImpl" timestamp="1600415239326">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state x="2212" y="119" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1600415239326" />
+    <state width="981" height="179" key="GridCell.Tab.0.bottom" timestamp="1600557503080">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1600557503080" />
+    <state width="981" height="179" key="GridCell.Tab.0.center" timestamp="1600557503080">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1600557503080" />
+    <state width="981" height="179" key="GridCell.Tab.0.left" timestamp="1600557503079">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1600557503079" />
+    <state width="981" height="179" key="GridCell.Tab.0.right" timestamp="1600557503080">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1600557503080" />
+  </component>
+</project>
