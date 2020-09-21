@@ -86,9 +86,9 @@ Estou muito feliz e grata pela oportunidade de desenvolver as minhas habilidades
 
 Este projeto é divido em três partes:
 
-1. Backend (pasta teste)
+1. Backend (pasta crud-backend)
 
-2. Frontend (pasta teste-crud)
+2. Frontend (pasta crud-frontend)
 
 💡 O Frontend precisa que o Backend esteja sendo executado para funcionar.
 
